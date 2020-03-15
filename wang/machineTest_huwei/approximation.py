@@ -1,5 +1,5 @@
 
-num=input()
+num = input()
 print(num)
 print(type(num))
 z=num.split('.')
