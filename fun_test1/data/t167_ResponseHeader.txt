@@ -1,0 +1,21 @@
+HTTP/1.1 200 OK
+Server: Tengine
+Content-Type: application/javascript
+Connection: keep-alive
+Date: Sat, 15 Aug 2020 01:44:53 GMT
+Cache-Control: max-age=86400
+Expires: Sun, 16 Aug 2020 01:44:53 GMT
+Last-Modified: Tue, 31 Jul 2018 07:52:50 GMT
+ETag: "5b601552-5c82"
+Via: cache8.l2cn2600[0,304-0,H], cache44.l2cn2600[1,0], cache8.cn284[0,200-0,H], cache6.cn284[1,0]
+X-M-Log: QNM:xs1184;QNM3:10/304
+X-M-Reqid: EGQAAGsIGJxD2fQV
+X-Qnm-Cache: Hit
+Ali-Swift-Global-Savetime: 1586520670
+Age: 4531
+X-Cache: HIT TCP_MEM_HIT dirn:2:672442669
+X-Swift-SaveTime: Sat, 15 Aug 2020 02:25:12 GMT
+X-Swift-CacheTime: 86400
+Timing-Allow-Origin: *
+EagleId: 793f8d1a15974604242891083e
+

@@ -1,0 +1,11 @@
+[t182]
+FileName1=t182_show_ads_impl.html
+URL1=https://pagead2.googlesyndication.com/pagead/js/r20200810/r20190131/show_ads_impl.js
+Total=1
+ContentType=text/javascript
+SnapshotXmlFile=snapshot_182.xml
+RequestHeaderFile=t182_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t182_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

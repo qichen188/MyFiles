@@ -1,0 +1,22 @@
+HTTP/1.1 200 OK
+Server: JSP3/2.0.14
+Date: Sat, 15 Aug 2020 02:58:46 GMT
+Content-Type: image/jpeg
+Content-Length: 5703
+Connection: keep-alive
+ETag: "B9FE9636A223E93213A4C523E263F8F9"
+Last-Modified: Tue, 13 Mar 2018 07:19:59 GMT
+Age: 1553498
+Accept-Ranges: bytes
+Content-Md5: uf6WNqIj6TITpMUj4mP4+Q==
+X-M-Log: QNM:jjh1514;QNM3:2
+X-M-Reqid: 7zUAALmSvzU7WhQW
+X-Oss-Hash-Crc64ecma: 10153664460242779776
+X-Oss-Object-Type: Normal
+X-Oss-Request-Id: 5ED084405CFD803633A58B88
+X-Oss-Server-Time: 1
+X-Oss-Storage-Class: Standard
+X-Qnm-Cache: Hit
+Ohc-Cache-HIT: hyct167 [4], xiangyctcache109 [4], qdix109 [1]
+Ohc-File-Size: 5703
+

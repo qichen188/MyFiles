@@ -1,0 +1,11 @@
+[t196]
+FileName1=t196_abg_lite.html
+URL1=https://tpc.googlesyndication.com/pagead/js/r20200810/r20110914/abg_lite.js
+Total=1
+ContentType=text/javascript
+SnapshotXmlFile=snapshot_196.xml
+RequestHeaderFile=t196_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t196_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

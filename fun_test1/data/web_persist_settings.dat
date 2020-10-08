@@ -1,0 +1,15 @@
+[StartRecordingGMT]
+StartRecordingGMT_1=2020/08/15 02:45:35
+StartRecordingIsDst_1=0
+StartRecordingGMT_2=2020/08/15 02:52:42
+StartRecordingIsDst_2=0
+StartRecordingGMT_3=2020/08/15 02:54:20
+StartRecordingIsDst_3=0
+StartRecordingGMT_4=2020/09/29 13:49:53
+StartRecordingIsDst_4=0
+[UserHomePage]
+UserHomePage=https://hao.360.cn/?installer
+[User-Agent]
+User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+[Security]
+UsingPersistForAuthentication=1

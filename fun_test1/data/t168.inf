@@ -1,0 +1,11 @@
+[t168]
+FileName1=t168_run_prettify.html
+URL1=https://static.runoob.com/assets/libs/hl/run_prettify.js
+Total=1
+ContentType=text/javascript
+SnapshotXmlFile=snapshot_168.xml
+RequestHeaderFile=t168_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t168_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

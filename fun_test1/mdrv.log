@@ -1,0 +1,34 @@
+Virtual User Script started at : 2020/10/8 21:15:40
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 12.0.0 for Windows 7; build 2739 (Nov 30 2014 23:13:05)  	[MsgId: MMSG-27143]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Run-Time Settings file: "d:\Documents\VuGen\Scripts\081501\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action test1.
+%%%%: 6
+%%%%: 0
+小于0小于0小于0
+小于0小于0小于0
+小于0小于0小于0
+小于0小于0小于0
+小于0小于0小于0
+小于0小于0小于0
+小于0小于0小于0
+小于0小于0小于0
+小于0小于0小于0
+小于0小于0小于0
+Ending action test1.
+Starting action Action1.
+wangle
+abcdefg
+8
+7
+Ending action Action1.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

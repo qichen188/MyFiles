@@ -1,0 +1,11 @@
+GET /pagead/gen_204?id=sodar2&v=210&t=2&li=gda_r20200810&jk=1441031584494310&bg=!jo2ljZVYk8B5VuOqE9cCAAACqFIAAABlmQG1abZ6AsDa8Zq-kZWtV3gjpPOV2Sv_3pLWIqTENMYGZx9uYdGBlHyhUgRUY1ml8-g4ADHz-1dzvO7Qx0tW09fYra5FCwqotJMHCeL96p6hOskhihwk_gAMFV-SXD1ynrDJIXPTqbUr-r-VCBZn1XT-kw0nmm3S5iRYjnbYfOjym1dzWzaNmriHmvIAsMB8ThARcmhopZOlbWl2dgAKu9WPOcecH04q11LxqrpV68Zc27fVRC195F0ICLm-xa5vMxBNvworw1VWcIQAieGhfqLNqdW-0uXfVKhJpXbg7nc-I3S4Ou4p2fl89ABulE6gwD9wtAj8jMyy9QYdB6aG3eVsXZipdbrMb4QPw9JX8GL-rpiVNKMFqgZcOAAQJaEE3D37k5mTt6GsvhYQcjsRkofyQ7dx6tamUTiWHZzST4txfyUOd0E99Jr6mPtgjAYc_6C9sQyitvPT59HcSVYmh-DhPyG2jTE7pCwTOtnI0hALR4iGwZX-v5rQADtmo3Lw9aaCr4y0vkiEvaJa7mnSMsw5hchxMGmDrbohYK2I_2rYrzNHxX3-hG6WAHHW5n4SrTYXXMJ4jXA HTTP/1.1
+Accept: image/png, image/svg+xml, image/*;q=0.8, */*;q=0.5
+Referer: https://www.runoob.com/html/html-tutorial.html
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+UA-CPU: AMD64
+Accept-Encoding: gzip, deflate
+Host: pagead2.googlesyndication.com
+DNT: 1
+Connection: Keep-Alive
+

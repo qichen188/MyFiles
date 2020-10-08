@@ -1,0 +1,9 @@
+GET /images/dashang/weipayimg.png HTTP/1.1
+Accept: image/png, image/svg+xml, image/*;q=0.8, */*;q=0.5
+Referer: https://www.runoob.com/?s=linux
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+UA-CPU: AMD64
+Accept-Encoding: gzip, deflate
+Host: static.runoob.com
+

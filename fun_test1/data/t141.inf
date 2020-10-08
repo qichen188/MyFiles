@@ -1,0 +1,11 @@
+[t141]
+FileName1=t141.gif
+URL1=https://d.agkn.com/pixel/2175/?google_gid=CAESEJrYFuC6yPPVfJGSLaomFzU&google_cver=1&google_push=AQvitUIv9fdCch7vne0YzkzEIf8y1ATbQTypiC0A3ilvdzv19aXAx09XHaET0CEiB5EUjea0oevGZ6bGY3feTQ13NkkgoK58o54
+Total=1
+ContentType=image/gif
+SnapshotXmlFile=snapshot_141.xml
+RequestHeaderFile=t141_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t141_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

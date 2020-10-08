@@ -1,0 +1,12 @@
+GET /466606.gif?cparams=google_push%3DAQvitUKr_axril8gZcRnwg-qRefCZWCid1egIE75Vs445IwKU4R7KC1TMls1wrhmRL5phb3XvFfb1-7iInz1qQiivGUVDVjsb83e&google_gid=CAESEHj0Y6hHk52dSj4ZjzJMU_s&google_cver=1 HTTP/1.1
+Accept: image/png, image/svg+xml, image/*;q=0.8, */*;q=0.5
+Referer: https://pagead2.googlesyndication.com/pagead/s/cookie_push_onload.html
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+UA-CPU: AMD64
+Accept-Encoding: gzip, deflate
+Host: id.rlcdn.com
+DNT: 1
+Connection: Keep-Alive
+Cookie: rlas3=znca2aldVS9oVdnlegrDdEr9xMSJ9dnOJGHt1YoPaAk=; pxrc=CPyzvfkFEgUI6AcQABIICOndKhDfuhI=
+

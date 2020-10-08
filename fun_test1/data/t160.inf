@@ -1,0 +1,11 @@
+[t160]
+FileName1=t160_uploader.html
+URL1=https://static.runoob.com/assets/simditor/2.3.6/scripts/uploader.js
+Total=1
+ContentType=text/javascript
+SnapshotXmlFile=snapshot_160.xml
+RequestHeaderFile=t160_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t160_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

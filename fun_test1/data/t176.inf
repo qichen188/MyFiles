@@ -1,0 +1,11 @@
+[t176]
+FileName1=t176_fontawesome-webfont.html
+URL1=https://static.runoob.com/assets/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+Total=1
+ContentType=application/vnd.ms-fontobject
+SnapshotXmlFile=snapshot_176.xml
+RequestHeaderFile=t176_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t176_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

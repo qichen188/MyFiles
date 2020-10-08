@@ -1,0 +1,11 @@
+GET /ieblocklist/v1/urlblockindex.bin HTTP/1.1
+Accept: */*
+UA-CPU: AMD64
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+Host: r20swj13mr.microsoft.com
+DNT: 1
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: SRCHD=AF=NOFORM; SRCHUID=V=2&GUID=7D852A26732040DEBDECC3EB73EC72B1&dmnchg=1; SRCHUSR=DOB=20200726
+

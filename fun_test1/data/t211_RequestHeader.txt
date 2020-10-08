@@ -1,0 +1,12 @@
+GET /w/1.0/pd?ph=bbb82fae-1d27-4d90-bb10-e24164ecd7bc&google_gid=CAESEGnGk-jcGSf6BjhnwSZcrFo&google_cver=1&google_push=AQvitUJddAxe5G5u_S0HtCImNDMT7Mq8ZCyBGOq5wTo_4sxCXMilOH6LNpQ5lfQ15RkNLwGHNr-BxzXuuilYjVcdEr_Tvl37sD4 HTTP/1.1
+Accept: image/png, image/svg+xml, image/*;q=0.8, */*;q=0.5
+Referer: https://pagead2.googlesyndication.com/pagead/s/cookie_push_onload.html
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+UA-CPU: AMD64
+Accept-Encoding: gzip, deflate
+Host: us-u.openx.net
+DNT: 1
+Connection: Keep-Alive
+Cookie: i=f302c786-b346-41ae-b0a3-247e0c15b2fb|1595749244; pd=v2|1596938747.11.3688.5.2643.295894.219346|jE.vO.hI.lY.iu.ia.ka; univ_id=537072971|3df7a1c1-fff9-4328-9f45-4a77dd168944|1596945099246548
+

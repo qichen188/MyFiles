@@ -1,0 +1,12 @@
+GET /wp-content/themes/runoob/assets/feedback/stable/2.0/feedback.js?1.0 HTTP/1.1
+Accept: application/javascript, */*;q=0.8
+Referer: https://www.runoob.com/html/html-tutorial.html
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+UA-CPU: AMD64
+Accept-Encoding: gzip, deflate
+Host: www.runoob.com
+DNT: 1
+Connection: Keep-Alive
+Cookie: __gads=ID=ddd7fa002becc520:T=1595742739:S=ALNI_Mb2asDVdSAhKach6PzjMMQFLDOFQA; Hm_lvt_3eec0b7da6548cf07db3bc477ea905ee=1597068391,1597240643,1597240834,1597241514
+

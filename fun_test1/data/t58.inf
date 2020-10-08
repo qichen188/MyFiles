@@ -1,0 +1,11 @@
+[t58]
+FileName1=t58.gif
+URL1=https://d.agkn.com/pixel/2175/?google_gid=CAESEJrYFuC6yPPVfJGSLaomFzU&google_cver=1&google_push=AQvitUIe1KJZ7IdjvaeLMNpUAak8N_waS-mkzEicroiVJV1I9IzWVNV1uqV-zYKluW4JXirqwy36epKBWRaVutvo_JtI8Y-wO05A
+Total=1
+ContentType=image/gif
+SnapshotXmlFile=snapshot_58.xml
+RequestHeaderFile=t58_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t58_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+P3P: policyref="https://www.googleadservices.com/pagead/p3p.xml", CP="NOI DEV PSA PSD IVA IVD OTP OUR OTR IND OTC"
+Timing-Allow-Origin: *
+Date: Sat, 15 Aug 2020 02:58:46 GMT
+Expires: Sat, 15 Aug 2020 02:58:46 GMT
+Cache-Control: private, max-age=3600
+Content-Type: text/javascript; charset=UTF-8
+ETag: 9419532339770258129
+X-Content-Type-Options: nosniff
+Content-Disposition: attachment; filename="f.txt"
+Server: cafe
+X-XSS-Protection: 0
+Alt-Svc: h3-29="googleads.g.doubleclick.net:443"; ma=2592000,h3-29=":443"; ma=2592000,h3-27="googleads.g.doubleclick.net:443"; ma=2592000,h3-27=":443"; ma=2592000,h3-T050="googleads.g.doubleclick.net:443"; ma=2592000,h3-T050=":443"; ma=2592000,h3-Q050="googleads.g.doubleclick.net:443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046="googleads.g.doubleclick.net:443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043="googleads.g.doubleclick.net:443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic="googleads.g.doubleclick.net:443"; ma=2592000; v="46,43",quic=":443"; ma=2592000; v="46,43"
+Transfer-Encoding: chunked
+

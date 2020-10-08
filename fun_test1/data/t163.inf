@@ -1,0 +1,11 @@
+[t163]
+FileName1=t163_simditor.min.html
+URL1=https://static.runoob.com/assets/simditor/2.3.6/scripts/simditor.min.js
+Total=1
+ContentType=text/javascript
+SnapshotXmlFile=snapshot_163.xml
+RequestHeaderFile=t163_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t163_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

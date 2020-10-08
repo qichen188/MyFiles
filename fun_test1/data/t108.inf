@@ -1,0 +1,11 @@
+[t108]
+FileName1=t108_main.min.html
+URL1=https://www.runoob.com/wp-content/themes/runoob/assets/js/main.min.js?v=1.191
+Total=1
+ContentType=application/javascript
+SnapshotXmlFile=snapshot_108.xml
+RequestHeaderFile=t108_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t108_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

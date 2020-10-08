@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+P3P: policyref="https://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml", CP="CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"
+Timing-Allow-Origin: *
+Date: Sat, 15 Aug 2020 01:56:12 GMT
+Expires: Sat, 15 Aug 2020 02:56:12 GMT
+Content-Type: text/javascript; charset=UTF-8
+ETag: 5412059263255926577
+X-Content-Type-Options: nosniff
+Content-Disposition: attachment; filename="f.txt"
+Server: cafe
+X-XSS-Protection: 0
+Cache-Control: public, max-age=3600
+Age: 3335
+Alt-Svc: h3-29=":443"; ma=2592000,h3-27=":443"; ma=2592000,h3-T050=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+

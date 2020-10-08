@@ -1,0 +1,11 @@
+[t44]
+FileName1=t44_hm.html
+URL1=https://hm.baidu.com/hm.js?3eec0b7da6548cf07db3bc477ea905ee
+Total=1
+ContentType=application/javascript
+SnapshotXmlFile=snapshot_44.xml
+RequestHeaderFile=t44_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t44_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

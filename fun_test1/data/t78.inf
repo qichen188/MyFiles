@@ -1,0 +1,11 @@
+[t78]
+FileName1=t78.htm
+URL1=https://www.runoob.com/?s=jquery
+Total=1
+RequestHeaderFile=t78_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t78_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_78.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

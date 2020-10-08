@@ -1,0 +1,11 @@
+[t194]
+FileName1=t194_osd_listener.html
+URL1=https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914
+Total=1
+ContentType=text/javascript
+SnapshotXmlFile=snapshot_194.xml
+RequestHeaderFile=t194_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t194_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

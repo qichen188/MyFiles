@@ -1,0 +1,11 @@
+[t119]
+FileName1=t119_prettify.css
+URL1=https://static.runoob.com/assets/libs/hl/prettify.css
+Total=1
+ContentType=text/css
+SnapshotXmlFile=snapshot_119.xml
+RequestHeaderFile=t119_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t119_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

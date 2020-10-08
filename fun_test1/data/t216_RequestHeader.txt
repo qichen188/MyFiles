@@ -1,0 +1,14 @@
+GET /wp-content/themes/runoob/assets/img/cd-icon-close.svg HTTP/1.1
+Accept: image/png, image/svg+xml, image/*;q=0.8, */*;q=0.5
+Referer: https://www.runoob.com/?s=java
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+UA-CPU: AMD64
+Accept-Encoding: gzip, deflate
+Host: www.runoob.com
+If-Modified-Since: Sat, 28 Oct 2017 06:01:29 GMT
+If-None-Match: "59f41d39-2c2"
+DNT: 1
+Connection: Keep-Alive
+Cookie: __gads=ID=ddd7fa002becc520:T=1595742739:S=ALNI_Mb2asDVdSAhKach6PzjMMQFLDOFQA; Hm_lvt_3eec0b7da6548cf07db3bc477ea905ee=1597241514,1597459548,1597459968,1597460066; Hm_lpvt_3eec0b7da6548cf07db3bc477ea905ee=1597460066
+

@@ -1,0 +1,11 @@
+[t60]
+FileName1=t60_466606.png
+URL1=https://id.rlcdn.com/466606.gif?cparams=google_push%3DAQvitUKr_axril8gZcRnwg-qRefCZWCid1egIE75Vs445IwKU4R7KC1TMls1wrhmRL5phb3XvFfb1-7iInz1qQiivGUVDVjsb83e&google_gid=CAESEHj0Y6hHk52dSj4ZjzJMU_s&google_cver=1
+Total=1
+ContentType=image/png
+SnapshotXmlFile=snapshot_60.xml
+RequestHeaderFile=t60_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t60_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

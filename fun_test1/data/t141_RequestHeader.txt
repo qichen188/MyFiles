@@ -1,0 +1,11 @@
+GET /pixel/2175/?google_gid=CAESEJrYFuC6yPPVfJGSLaomFzU&google_cver=1&google_push=AQvitUIv9fdCch7vne0YzkzEIf8y1ATbQTypiC0A3ilvdzv19aXAx09XHaET0CEiB5EUjea0oevGZ6bGY3feTQ13NkkgoK58o54 HTTP/1.1
+Accept: image/png, image/svg+xml, image/*;q=0.8, */*;q=0.5
+Referer: https://pagead2.googlesyndication.com/pagead/s/cookie_push_onload.html
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+UA-CPU: AMD64
+Accept-Encoding: gzip, deflate
+Host: d.agkn.com
+DNT: 1
+Connection: Keep-Alive
+

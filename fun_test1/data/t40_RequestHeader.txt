@@ -1,0 +1,11 @@
+GET /gampad/cookie.js?domain=www.runoob.com&callback=_gfp_s_&client=ca-pub-5751451760833794&cookie=ID%3Dddd7fa002becc520%3AT%3D1595742739%3AS%3DALNI_Mb2asDVdSAhKach6PzjMMQFLDOFQA HTTP/1.1
+Accept: application/javascript, */*;q=0.8
+Referer: https://www.runoob.com/html/html-tutorial.html
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+UA-CPU: AMD64
+Accept-Encoding: gzip, deflate
+Host: partner.googleadservices.com
+DNT: 1
+Connection: Keep-Alive
+

@@ -1,0 +1,11 @@
+[t179]
+FileName1=t179_integrator.html
+URL1=https://adservice.google.com/adsid/integrator.js?domain=www.runoob.com
+Total=1
+ContentType=application/javascript
+SnapshotXmlFile=snapshot_179.xml
+RequestHeaderFile=t179_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t179_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

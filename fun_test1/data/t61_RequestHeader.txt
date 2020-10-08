@@ -1,0 +1,12 @@
+GET /token?pid=2249&pt=n&google_gid=CAESEJPUX85fX6Nga2YZizflthc&google_cver=1&google_push=AQvitUI5Lsrs2cPu5IBvf_aX9vQqpW6loWF-R_sHmBN26B9L0urwbg8EMU2yGl2qPjJJlv5UkqpCuBKQrYATXWdYV17VdPDN-w3g HTTP/1.1
+Accept: image/png, image/svg+xml, image/*;q=0.8, */*;q=0.5
+Referer: https://pagead2.googlesyndication.com/pagead/s/cookie_push_onload.html
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+UA-CPU: AMD64
+Accept-Encoding: gzip, deflate
+Host: token.rubiconproject.com
+DNT: 1
+Connection: Keep-Alive
+Cookie: khaos=KDMG3M4N-1N-QG2; audit=1|gWnXh+VlPA7A0kiO8d1OW1n74WFaQgIKAIyaYoA62V4E56+pxLyTRf8/nUpStYZrR7dXLPQRz5vyUhTWCqUS/Ek4PZsAbGW4R5MVIJPz3E0dhiNC1LR4FLzVkEgURnRlJpZyD2vKs4OrTim6dKF6O2CX4hKvF4KniPQt/HbJap6WASlopQqgxR2n8R3IJhj/gGDsbl2RxzAgsD/0LyO+Dc0khB2cmchr4bUa3DPj3PgaGtCWGm7xsGr43xyXDfYEcPAtF+qJUhuvPh5YXVIJv6t3v36gq774xZNjQcK78ml+CPUQOnk9vR7EDIExm4C+9d99/c7PF9pC1WAxIaPHw6Zr5ZVxLWDe
+

@@ -1,0 +1,11 @@
+[t193]
+FileName1=t193_sodar2.html
+URL1=https://tpc.googlesyndication.com/sodar/sodar2.js
+Total=1
+ContentType=text/javascript
+SnapshotXmlFile=snapshot_193.xml
+RequestHeaderFile=t193_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t193_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

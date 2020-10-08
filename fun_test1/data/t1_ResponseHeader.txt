@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Server: Tengine
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Date: Fri, 14 Aug 2020 14:05:34 GMT
+Link: <http://www.runoob.com/wp-json/>; rel="https://api.w.org/"
+Link: <http://www.runoob.com/?p=1>; rel=shortlink
+Ali-Swift-Global-Savetime: 1597413934
+Via: cache49.l2cn2600[213,200-0,M], cache70.l2cn2600[215,0], cache4.cn284[0,200-0,H], cache6.cn284[4,0]
+Age: 45969
+X-Cache: HIT TCP_HIT dirn:0:22638871
+X-Swift-SaveTime: Fri, 14 Aug 2020 14:05:34 GMT
+X-Swift-CacheTime: 86400
+Timing-Allow-Origin: *
+EagleId: 793f8d1a15974599031816085e
+

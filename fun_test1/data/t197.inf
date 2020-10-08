@@ -1,0 +1,11 @@
+[t197]
+FileName1=t197_window_focus.html
+URL1=https://tpc.googlesyndication.com/pagead/js/r20200810/r20110914/client/window_focus.js
+Total=1
+ContentType=text/javascript
+SnapshotXmlFile=snapshot_197.xml
+RequestHeaderFile=t197_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t197_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

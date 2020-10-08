@@ -1,0 +1,12 @@
+GET /t/v2/sync?tagid=V2_4530&src.visitorid=CAESEIcghM9robfElg_PecTPOWk&google_cver=1&google_push=AQvitULKFR7zVg34tkbzXzmGfq3OXu_mVkAuSzPPwUDs5rodHW7zChYqtu80J8anp3iEl2vIkVTgCfsKLCcputfykNriQSzHJlFl HTTP/1.1
+Accept: image/png, image/svg+xml, image/*;q=0.8, */*;q=0.5
+Referer: https://pagead2.googlesyndication.com/pagead/s/cookie_push_onload.html
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+UA-CPU: AMD64
+Accept-Encoding: gzip, deflate
+Host: odr.mookie1.com
+DNT: 1
+Connection: Keep-Alive
+Cookie: id=10528360398816496108; mdata=1|10528360398816496108|1595742765183; ov=827146b453addcf1b6dcd328d510dc4f
+

@@ -1,0 +1,11 @@
+[t216]
+FileName1=t216_cd-icon-close.svg
+URL1=https://www.runoob.com/wp-content/themes/runoob/assets/img/cd-icon-close.svg
+Total=1
+ContentType=image/svg+xml
+SnapshotXmlFile=snapshot_216.xml
+RequestHeaderFile=t216_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t216_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

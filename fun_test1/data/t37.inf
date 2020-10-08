@@ -1,0 +1,11 @@
+[t37]
+FileName1=t37_osd_listener.html
+URL1=https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914
+Total=1
+ContentType=text/javascript
+SnapshotXmlFile=snapshot_37.xml
+RequestHeaderFile=t37_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t37_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

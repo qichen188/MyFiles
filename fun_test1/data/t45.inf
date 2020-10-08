@@ -1,0 +1,11 @@
+[t45]
+FileName1=t45_qs_click_protection.html
+URL1=https://tpc.googlesyndication.com/pagead/js/r20200810/r20110914/client/qs_click_protection.js
+Total=1
+ContentType=text/javascript
+SnapshotXmlFile=snapshot_45.xml
+RequestHeaderFile=t45_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t45_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

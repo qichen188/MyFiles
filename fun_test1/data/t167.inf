@@ -1,0 +1,11 @@
+[t167]
+FileName1=t167_feedback.html
+URL1=https://www.runoob.com/wp-content/themes/runoob/assets/feedback/stable/2.0/feedback.js?1.0
+Total=1
+ContentType=application/javascript
+SnapshotXmlFile=snapshot_167.xml
+RequestHeaderFile=t167_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t167_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

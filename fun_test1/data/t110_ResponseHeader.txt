@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Server: Tengine
+Content-Type: image/gif
+Content-Length: 1434
+Connection: keep-alive
+Date: Fri, 14 Aug 2020 22:02:24 GMT
+Last-Modified: Sat, 28 Oct 2017 06:01:28 GMT
+ETag: "59f41d38-59a"
+Accept-Ranges: bytes
+Via: cache39.l2cn1837[78,304-0,H], cache42.l2cn1837[79,0], cache7.cn284[0,200-0,H], cache4.cn284[2,0]
+Cache-Control: max-age=86400
+Expires: Thu, 23 Jul 2020 09:38:00 GMT
+X-M-Log: QNM:xs455;QNM3/304
+X-M-Reqid: i1UAAJKuJpie-vQV
+X-Qnm-Cache: Hit
+Vary: Accept-Encoding
+Ali-Swift-Global-Savetime: 1574287117
+Age: 17782
+X-Cache: HIT TCP_MEM_HIT dirn:17:408807710
+X-Swift-SaveTime: Fri, 14 Aug 2020 22:02:24 GMT
+X-Swift-CacheTime: 86400
+Timing-Allow-Origin: *
+EagleId: 793f8d1815974603264704149e
+

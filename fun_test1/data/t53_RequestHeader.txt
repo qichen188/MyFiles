@@ -1,0 +1,13 @@
+GET /getconfig/sodar?sv=200&tid=gda&tv=r20200810&st=env HTTP/1.1
+Accept: */*
+Referer: https://www.runoob.com/html/html-tutorial.html
+Accept-Language: zh-CN
+Origin: https://www.runoob.com
+UA-CPU: AMD64
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+Host: pagead2.googlesyndication.com
+DNT: 1
+Connection: Keep-Alive
+Cache-Control: no-cache
+

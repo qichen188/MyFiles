@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+P3P: policyref="https://www.googleadservices.com/pagead/p3p.xml", CP="NOI DEV PSA PSD IVA IVD OTP OUR OTR IND OTC"
+Timing-Allow-Origin: *
+Date: Mon, 10 Aug 2020 22:09:11 GMT
+Expires: Mon, 24 Aug 2020 22:09:11 GMT
+Content-Type: text/javascript; charset=UTF-8
+ETag: 16069102929070949366
+Vary: Origin
+X-Content-Type-Options: nosniff
+Content-Disposition: attachment; filename="f.txt"
+Server: cafe
+X-XSS-Protection: 0
+Cache-Control: public, max-age=1209600
+Age: 363074
+Alt-Svc: h3-29=":443"; ma=2592000,h3-27=":443"; ma=2592000,h3-T050=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+

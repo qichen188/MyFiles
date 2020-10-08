@@ -1,0 +1,10 @@
+[t80]
+FileName1=t80_style.html
+URL1=https://www.runoob.com/wp-content/themes/runoob/style.css?v=1.156
+Total=1
+ContentType=
+SnapshotXmlFile=snapshot_80.xml
+RequestHeaderFile=t80_RequestHeader.txt
+RequestBodyFile=NONE
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,11 @@
+[t181]
+FileName1=t181_cookie.html
+URL1=https://partner.googleadservices.com/gampad/cookie.js?domain=www.runoob.com&callback=_gfp_s_&client=ca-pub-5751451760833794&cookie=ID%3Dddd7fa002becc520%3AT%3D1595742739%3AS%3DALNI_Mb2asDVdSAhKach6PzjMMQFLDOFQA
+Total=1
+ContentType=text/javascript
+SnapshotXmlFile=snapshot_181.xml
+RequestHeaderFile=t181_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t181_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

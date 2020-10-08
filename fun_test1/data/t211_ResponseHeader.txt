@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Sat, 15 Aug 2020 03:00:30 GMT
+Content-Type: image/gif
+Content-Length: 43
+Connection: close
+Cache-Control: no-store,no-cache
+Pragma: no-cache
+expires: -1
+

@@ -1,0 +1,11 @@
+[t8]
+FileName1=t8_simditor.css
+URL1=https://static.runoob.com/assets/simditor/2.3.6/styles/simditor.css
+Total=1
+ContentType=text/css
+SnapshotXmlFile=snapshot_8.xml
+RequestHeaderFile=t8_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t8_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

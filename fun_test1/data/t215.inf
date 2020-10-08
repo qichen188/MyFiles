@@ -1,0 +1,11 @@
+[t215]
+FileName1=t215_hm.html
+URL1=https://hm.baidu.com/hm.js?3eec0b7da6548cf07db3bc477ea905ee
+Total=1
+ContentType=application/javascript
+SnapshotXmlFile=snapshot_215.xml
+RequestHeaderFile=t215_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t215_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

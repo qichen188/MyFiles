@@ -1,0 +1,13 @@
+GET /hm.js?3eec0b7da6548cf07db3bc477ea905ee HTTP/1.1
+Accept: application/javascript, */*;q=0.8
+Referer: https://www.runoob.com/?s=python
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+UA-CPU: AMD64
+Accept-Encoding: gzip, deflate
+Host: hm.baidu.com
+If-None-Match: 0f9d61afa115a5bdbcbb3b9c288f34bc
+DNT: 1
+Connection: Keep-Alive
+Cookie: BAIDUID=2DF3FF58A6B234765F8FA1180B7C761E:FG=1; HMACCOUNT=946CB211B2B52531
+

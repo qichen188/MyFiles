@@ -1,0 +1,10 @@
+[t75]
+FileName1=t75_hm.html
+URL1=https://hm.baidu.com/hm.js?3eec0b7da6548cf07db3bc477ea905ee
+Total=1
+ContentType=
+SnapshotXmlFile=snapshot_75.xml
+RequestHeaderFile=t75_RequestHeader.txt
+RequestBodyFile=NONE
+[ProtocolInfo]
+ProtocolId=QTWeb

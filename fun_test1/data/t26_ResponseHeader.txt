@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Server: JSP3/2.0.14
+Date: Sat, 15 Aug 2020 02:51:43 GMT
+Content-Type: application/vnd.ms-fontobject
+Content-Length: 165742
+Connection: keep-alive
+ETag: "674F50D287A8C48DC19BA404D20FE713"
+Last-Modified: Sun, 11 Dec 2016 06:05:54 GMT
+Age: 1215621
+Accept-Ranges: bytes
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET, POST, HEAD
+Access-Control-Allow-Origin: https://www.runoob.com
+Access-Control-Max-Age: 86400
+Content-Md5: Z09Q0oeoxI3Bm6QE0g/nEw==
+X-M-Log: QNM:jjh1910;SRCPROXY:jjh1540;SRC:72;SRCPROXY:72;QNM3:116
+X-M-Reqid: XTMAACGE7rHKlBQW
+X-Oss-Hash-Crc64ecma: 17579493630039384951
+X-Oss-Object-Type: Normal
+X-Oss-Request-Id: 5ED5A6C6227FE6313378E00F
+X-Oss-Server-Time: 58
+X-Oss-Storage-Class: Standard
+X-Qnm-Cache: Miss
+Ohc-Cache-HIT: hyct51 [4], xactcache51 [1], qdix51 [1]
+Ohc-File-Size: 165742
+

@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+P3P: policyref="https://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml", CP="CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"
+Timing-Allow-Origin: *
+Content-Type: text/html; charset=UTF-8
+X-Content-Type-Options: nosniff
+Date: Sat, 15 Aug 2020 03:00:25 GMT
+Server: cafe
+Cache-Control: private
+X-XSS-Protection: 0
+Set-Cookie: id=227a93feadc200fa||t=1595742740|et=730|cs=002213fd482c68788f1a21077c; expires=Tue, 26-Jul-2022 05:52:20 GMT; path=/; domain=.doubleclick.net; Secure; SameSite=none
+Alt-Svc: h3-29="googleads.g.doubleclick.net:443"; ma=2592000,h3-29=":443"; ma=2592000,h3-27="googleads.g.doubleclick.net:443"; ma=2592000,h3-27=":443"; ma=2592000,h3-T050="googleads.g.doubleclick.net:443"; ma=2592000,h3-T050=":443"; ma=2592000,h3-Q050="googleads.g.doubleclick.net:443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046="googleads.g.doubleclick.net:443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043="googleads.g.doubleclick.net:443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic="googleads.g.doubleclick.net:443"; ma=2592000; v="46,43",quic=":443"; ma=2592000; v="46,43"
+Expires: Sat, 15 Aug 2020 03:00:25 GMT
+Transfer-Encoding: chunked
+

@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Content-Type: image/gif
+Content-Length: 43
+Connection: keep-alive
+Cache-Control: no-cache, must-revalidate
+Date: Sat, 15 Aug 2020 02:51:48 GMT
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+P3P: CP="NOI DSP COR CURa ADMa DEVa TAIa OUR BUS IND UNI COM NAV INT"
+Pragma: no-cache
+Server: Apache-Coyote/1.1
+Set-Cookie: ab=0001%3AhC3SDTgoLx%2FsxsCCyiTuAy9fpfFQujA1;Path=/;Domain=agkn.com;Max-Age=31536000;SameSite=None;Secure
+Set-Cookie: u=C|0CAAmygpEJsoKRAAAAAAAAQpAAAAAAA;Path=/;Domain=agkn.com;Max-Age=31536000;SameSite=None;Secure
+X-Cache: Miss from cloudfront
+Via: 1.1 3466f1977d0fde72d3b068733212f226.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: SFO5-C3
+X-Amz-Cf-Id: V4e-D0sASv-tR8WVluRKXCE6szVz9xfh8M2vuuqXe_J0q465T04gpQ==
+

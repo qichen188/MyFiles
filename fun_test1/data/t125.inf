@@ -1,0 +1,11 @@
+[t125]
+FileName1=t125.htm
+URL1=https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-5751451760833794&output=html&adk=1812271804&adf=3025194257&lmt=1597459968&plat=1%3A32776%2C2%3A32776%2C9%3A32776%2C10%3A32%2C11%3A32%2C16%3A8388608%2C17%3A32%2C24%3A32%2C25%3A32%2C30%3A1081344%2C32%3A32%2C40%3A32&guci=2.2.0.0.2.2.0.0&format=0x0&url=https%3A%2F%2Fwww.runoob.com%2Fhtml%2Fhtml-tutorial.html&ea=0&flash=32.0.0*&pra=7&wgl=1&adsid=NT&dt=1597459968239&bpp=8&bdt=1164&idt=9&shv=r20200810&cbv=r20190131&ptt=9&saldr=aa&abxe=1&cookie=ID%3Dddd7fa002becc520%3AT%3D1595742739%3AS%3DALNI_Mb2asDVdSAhKach6PzjMMQFLDOFQA&prev_fmts=728x90&nras=1&correlator=1878415260460&frm=20&pv=1&ga_vid=259984122.1597459968&ga_sid=1597459968&ga_hid=1618247516&ga_fc=0&icsg=2451570735&dssz=22&mdo=0&mso=8&u_tz=480&u_his=1&u_java=1&u_h=1080&u_w=1920&u_ah=1040&u_aw=1920&u_cd=24&u_nplug=1&u_nmime=2&adx=-12245933&ady=-12245933&biw=1903&bih=962&scr_x=0&scr_y=0&eid=42530557%2C42530559&oid=2&pvsid=1441031584494310&pem=725&rx=0&eae=2&fc=896&docm=11&brdim=0%2C78%2C-8%2C-8%2C1920%2C%2C1936%2C1056%2C1920%2C962&vis=1&rsz=%7C%7Cs%7C&abl=NS&fu=8200&bc=1&ifi=1&uci=a!1&dtd=159
+Total=1
+RequestHeaderFile=t125_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t125_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_125.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

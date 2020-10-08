@@ -1,0 +1,11 @@
+[t22]
+FileName1=t22_feedback.css
+URL1=https://www.runoob.com/wp-content/themes/runoob/assets/feedback/stable/2.0/feedback.css?1.0
+Total=1
+ContentType=text/css
+SnapshotXmlFile=snapshot_22.xml
+RequestHeaderFile=t22_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t22_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,11 @@
+[t211]
+FileName1=t211_pd.gif
+URL1=https://us-u.openx.net/w/1.0/pd?ph=bbb82fae-1d27-4d90-bb10-e24164ecd7bc&google_gid=CAESEGnGk-jcGSf6BjhnwSZcrFo&google_cver=1&google_push=AQvitUJddAxe5G5u_S0HtCImNDMT7Mq8ZCyBGOq5wTo_4sxCXMilOH6LNpQ5lfQ15RkNLwGHNr-BxzXuuilYjVcdEr_Tvl37sD4
+Total=1
+ContentType=image/gif
+SnapshotXmlFile=snapshot_211.xml
+RequestHeaderFile=t211_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t211_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

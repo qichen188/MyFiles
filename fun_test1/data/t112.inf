@@ -1,0 +1,11 @@
+[t112]
+FileName1=t112_bullet.png
+URL1=https://www.runoob.com/wp-content/themes/runoob/assets/img/bullet.png
+Total=1
+ContentType=image/png
+SnapshotXmlFile=snapshot_112.xml
+RequestHeaderFile=t112_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t112_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

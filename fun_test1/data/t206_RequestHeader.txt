@@ -1,0 +1,11 @@
+GET /adx/push/?google_gid=CAESEPMnF-QtMhhRXdMzGcflJHg&google_cver=1&google_push=AQvitUKKvRDYKSSMcej65NHMlsuorJKwjrz9nZhsWPDuWvaueq1Tqt2jOutLtiI_4vhP7BaQWjGel3GWHUQguJrHAtHl93QXptg HTTP/1.1
+Accept: image/png, image/svg+xml, image/*;q=0.8, */*;q=0.5
+Referer: https://pagead2.googlesyndication.com/pagead/s/cookie_push_onload.html
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+UA-CPU: AMD64
+Accept-Encoding: gzip, deflate
+Host: cc.adingo.jp
+DNT: 1
+Connection: Keep-Alive
+
