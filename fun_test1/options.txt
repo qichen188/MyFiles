@@ -1,9 +1,0 @@
--+
--DCCI
--D_IDA_XL
--DWINNT
--Id:\Documents\VuGen\Scripts\081501
--IF:\loadRunner\include
--ed:\documents\vugen\scripts\081501\\logfile.log
-d:\documents\vugen\scripts\081501\\combined_081501.c
-d:\documents\vugen\scripts\081501\\pre_cci.c

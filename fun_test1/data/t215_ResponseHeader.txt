@@ -1,8 +1,0 @@
-HTTP/1.1 200 OK
-Cache-Control: max-age=0, must-revalidate
-Content-Type: application/javascript
-Date: Sat, 15 Aug 2020 03:01:27 GMT
-Etag: 0f9d61afa115a5bdbcbb3b9c288f34bc
-Server: apache
-Strict-Transport-Security: max-age=172800
-
