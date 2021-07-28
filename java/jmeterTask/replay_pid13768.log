@@ -1,0 +1,22 @@
+JvmtiExport can_access_local_variables 0
+JvmtiExport can_hotswap_or_post_breakpoint 0
+JvmtiExport can_post_on_exceptions 0
+# 126 ciObject found
+ciMethod java/lang/String charAt (I)C 4097 1 377024 0 128
+ciMethod java/lang/String lastIndexOf (I)I 2513 1 9817 0 288
+ciMethod java/lang/String lastIndexOf (II)I 1025 20089 928 0 288
+ciMethod java/lang/String lastIndexOfSupplementary (II)I 0 0 1 0 -1
+ciMethod java/lang/Class isArray ()Z 2049 1 256 0 -1
+ciMethod java/lang/Class getName ()Ljava/lang/String; 2137 1 12630 0 288
+ciMethod java/lang/Class getName0 ()Ljava/lang/String; 2073 1 259 0 -1
+ciMethod java/lang/Class getClassLoader ()Ljava/lang/ClassLoader; 2073 1 10378 0 0
+ciMethod java/lang/Class getClassLoader0 ()Ljava/lang/ClassLoader; 1025 1 128 0 0
+ciMethod java/lang/ClassLoader checkClassLoaderPermission (Ljava/lang/ClassLoader;Ljava/lang/Class;)V 0 0 1 0 -1
+ciMethod java/lang/System getSecurityManager ()Ljava/lang/SecurityManager; 2049 1 7645 0 0
+ciMethod sun/reflect/Reflection getCallerClass ()Ljava/lang/Class; 2049 1 256 0 -1
+ciMethod java/lang/Math min (II)I 3321 1 42051 0 -1
+ciMethodData java/lang/String charAt (I)C 2 377244 orig 264 104 147 243 93 0 0 0 0 240 59 80 24 0 0 0 0 120 1 0 0 32 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 77 68 79 32 101 120 116 114 97 32 100 97 116 97 32 108 111 99 107 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 25 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 225 252 45 0 1 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 80 0 0 0 255 255 255 255 7 0 1 0 0 0 0 0 data 10 0x10007 0x0 0x40 0x5bf9c 0xa0007 0x5bf9c 0x30 0x0 0x120002 0x0 oops 0
+ciMethodData java/lang/System getSecurityManager ()Ljava/lang/SecurityManager; 2 7647 orig 264 104 147 243 93 0 0 0 0 8 135 81 24 0 0 0 0 24 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 77 68 79 32 101 120 116 114 97 32 100 97 116 97 32 108 111 99 107 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 249 230 0 0 1 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 3 0 1 0 0 0 0 0 0 0 255 255 255 255 0 0 0 0 0 0 0 0 data 0 oops 0
+ciMethod sun/invoke/util/VerifyAccess isSamePackage (Ljava/lang/Class;Ljava/lang/Class;)Z 2057 22913 3194 0 -1
+ciMethodData java/lang/String lastIndexOf (II)I 2 18920 orig 264 104 147 243 93 0 0 0 0 176 80 80 24 0 0 0 0 240 1 0 0 32 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 77 68 79 32 101 120 116 114 97 32 100 97 116 97 32 108 111 99 107 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 207 9 0 0 1 25 0 0 201 0 2 0 0 0 0 0 0 0 0 0 2 0 0 0 1 0 14 0 2 0 0 0 152 0 0 0 255 255 255 255 7 0 3 0 0 0 0 0 data 19 0x30007 0x0 0x88 0x320 0x100002 0x320 0x170007 0x67 0x58 0x42d2 0x1f0007 0x4019 0x20 0x2b9 0x280003 0x4019 0xffffffffffffffc0 0x300002 0x0 oops 0
+ciMethodData java/lang/Class getName ()Ljava/lang/String; 2 12663 orig 264 104 147 243 93 0 0 0 0 24 193 80 24 0 0 0 0 80 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 77 68 79 32 101 120 116 114 97 32 100 97 116 97 32 108 111 99 107 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 11 1 0 0 97 131 1 0 1 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 6 0 2 0 0 0 48 0 0 0 255 255 255 255 7 0 6 0 0 0 0 0 data 6 0x600

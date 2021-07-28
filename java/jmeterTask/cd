@@ -1,0 +1,15 @@
+2021-07-25 02:23:13,982 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2021-07-25 02:23:14,006 INFO o.a.j.JMeter: Loading user properties from: F:\apache-jmeter-5.1.1\bin\user.properties
+2021-07-25 02:23:14,008 INFO o.a.j.JMeter: Loading system properties from: F:\apache-jmeter-5.1.1\bin\system.properties
+2021-07-25 02:23:14,009 INFO o.a.j.JMeter: Setting JMeter property: threadCount=10
+2021-07-25 02:23:14,009 INFO o.a.j.JMeter: Setting JMeter property: ramTime=2
+2021-07-25 02:23:14,009 INFO o.a.j.JMeter: Setting JMeter property: duration=30
+2021-07-25 02:23:14,010 ERROR o.a.j.JMeter: An error occurred: 
+java.lang.IllegalArgumentException: Unknown arg: G:\java\jmeterTask\
+	at org.apache.jmeter.JMeter.initializeProperties(JMeter.java:847) ~[ApacheJMeter_core.jar:5.1.1 r1855137]
+	at org.apache.jmeter.JMeter.start(JMeter.java:460) [ApacheJMeter_core.jar:5.1.1 r1855137]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_202]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_202]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_202]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_202]
+	at org.apache.jmeter.NewDriver.main(NewDriver.java:253) [ApacheJMeter.jar:5.1.1 r1855137]

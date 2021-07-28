@@ -1,0 +1,66 @@
+2021-07-25 02:55:46,991 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2021-07-25 02:55:47,022 INFO o.a.j.JMeter: Loading user properties from: F:\apache-jmeter-5.1.1\bin\user.properties
+2021-07-25 02:55:47,023 INFO o.a.j.JMeter: Loading system properties from: F:\apache-jmeter-5.1.1\bin\system.properties
+2021-07-25 02:55:47,024 INFO o.a.j.JMeter: Setting JMeter property: threadCount=30
+2021-07-25 02:55:47,025 INFO o.a.j.JMeter: Setting JMeter property: ramTime=5
+2021-07-25 02:55:47,025 INFO o.a.j.JMeter: Setting JMeter property: duration=100
+2021-07-25 02:55:47,040 INFO o.a.j.JMeter: Copyright (c) 1998-2019 The Apache Software Foundation
+2021-07-25 02:55:47,040 INFO o.a.j.JMeter: Version 5.1.1 r1855137
+2021-07-25 02:55:47,041 INFO o.a.j.JMeter: java.version=1.8.0_202
+2021-07-25 02:55:47,041 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2021-07-25 02:55:47,041 INFO o.a.j.JMeter: os.name=Windows 10
+2021-07-25 02:55:47,041 INFO o.a.j.JMeter: os.arch=amd64
+2021-07-25 02:55:47,041 INFO o.a.j.JMeter: os.version=10.0
+2021-07-25 02:55:47,041 INFO o.a.j.JMeter: file.encoding=GBK
+2021-07-25 02:55:47,042 INFO o.a.j.JMeter: java.awt.headless=true
+2021-07-25 02:55:47,042 INFO o.a.j.JMeter: Max memory     =1073741824
+2021-07-25 02:55:47,042 INFO o.a.j.JMeter: Available Processors =4
+2021-07-25 02:55:47,049 INFO o.a.j.JMeter: Default Locale=English (EN)
+2021-07-25 02:55:47,049 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2021-07-25 02:55:47,049 INFO o.a.j.JMeter: JMeterHome=F:\apache-jmeter-5.1.1
+2021-07-25 02:55:47,049 INFO o.a.j.JMeter: user.dir  =G:\java\jmeterTask
+2021-07-25 02:55:47,050 INFO o.a.j.JMeter: PWD       =G:\java\jmeterTask
+2021-07-25 02:56:02,584 INFO o.a.j.JMeter: IP: 10.198.1.32 Name: DESKTOP-VS14U6A FullName: DESKTOP-VS14U6A
+2021-07-25 02:56:02,590 INFO o.a.j.s.FileServer: Default base='G:\java\jmeterTask'
+2021-07-25 02:56:02,598 INFO o.a.j.s.FileServer: Set new base='G:\java\jmeterTask'
+2021-07-25 02:56:02,834 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2021-07-25 02:56:02,862 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2021-07-25 02:56:02,873 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2021-07-25 02:56:02,891 INFO o.a.j.s.SaveService: Loading file: G:\java\jmeterTask\task.jmx
+2021-07-25 02:56:02,975 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-07-25 02:56:02,975 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-07-25 02:56:02,975 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-07-25 02:56:02,975 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-07-25 02:56:02,975 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2021-07-25 02:56:02,976 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2021-07-25 02:56:03,046 INFO o.a.j.p.h.c.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_
+2021-07-25 02:56:03,103 INFO o.a.j.JMeter: Creating summariser <summary>
+2021-07-25 02:56:03,112 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2021-07-25 02:56:03,114 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2021-07-25 02:56:03,114 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2021-07-25 02:56:03,129 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2021-07-25 02:56:03,129 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2021-07-25 02:56:03,908 INFO o.a.j.t.TestPlan: added F:\apache-jmeter-5.1.1\lib\commons-beanutils-1.7.0.jar to classpath
+2021-07-25 02:56:03,909 INFO o.a.j.t.TestPlan: added F:\apache-jmeter-5.1.1\lib\commons-collections-3.1.jar to classpath
+2021-07-25 02:56:03,918 INFO o.a.j.t.TestPlan: added F:\apache-jmeter-5.1.1\lib\commons-lang-2.5(1).jar to classpath
+2021-07-25 02:56:03,919 INFO o.a.j.t.TestPlan: added F:\apache-jmeter-5.1.1\lib\commons-logging.jar to classpath
+2021-07-25 02:56:03,919 INFO o.a.j.t.TestPlan: added F:\apache-jmeter-5.1.1\lib\json-lib-2.1-jdk15.jar to classpath
+2021-07-25 02:56:03,920 INFO o.a.j.t.TestPlan: added F:\apache-jmeter-5.1.1\lib\json-lib-2.4-jdk15.jar to classpath
+2021-07-25 02:56:03,920 INFO o.a.j.t.TestPlan: added F:\apache-jmeter-5.1.1\lib\json-path-2.4.0.jar to classpath
+2021-07-25 02:56:04,070 INFO o.a.j.JMeter: Running test (1627152964070)
+2021-07-25 02:56:04,121 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : 线程组
+2021-07-25 02:56:04,121 INFO o.a.j.e.StandardJMeterEngine: Starting 30 threads for group 线程组.
+2021-07-25 02:56:04,121 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2021-07-25 02:56:04,121 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=30 ramp-up=0 delayedStart=false
+2021-07-25 02:56:04,134 ERROR o.a.j.u.JMeterUtils: Error occurred starting thread group :线程组, error message:Invalid duration 0 set in Thread Group:线程组, 
+see log file for more details
+org.apache.jorphan.util.JMeterStopTestException: Invalid duration 0 set in Thread Group:线程组
+	at org.apache.jmeter.threads.ThreadGroup.scheduleThread(ThreadGroup.java:205) ~[ApacheJMeter_core.jar:5.1.1 r1855137]
+	at org.apache.jmeter.threads.ThreadGroup.startNewThread(ThreadGroup.java:263) ~[ApacheJMeter_core.jar:5.1.1 r1855137]
+	at org.apache.jmeter.threads.ThreadGroup.start(ThreadGroup.java:242) ~[ApacheJMeter_core.jar:5.1.1 r1855137]
+	at org.apache.jmeter.engine.StandardJMeterEngine.startThreadGroup(StandardJMeterEngine.java:526) [ApacheJMeter_core.jar:5.1.1 r1855137]
+	at org.apache.jmeter.engine.StandardJMeterEngine.run(StandardJMeterEngine.java:451) [ApacheJMeter_core.jar:5.1.1 r1855137]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_202]
+2021-07-25 02:56:04,142 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2021-07-25 02:56:04,143 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2021-07-25 02:56:04,144 INFO o.a.j.r.Summariser: summary =      0 in 00:00:00 = ******/s Avg:     0 Min: 9223372036854775807 Max: -9223372036854775808 Err:     0 (0.00%)

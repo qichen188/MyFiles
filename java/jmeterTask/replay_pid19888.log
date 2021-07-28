@@ -1,0 +1,34 @@
+JvmtiExport can_access_local_variables 0
+JvmtiExport can_hotswap_or_post_breakpoint 0
+JvmtiExport can_post_on_exceptions 0
+# 160 ciObject found
+ciMethod java/lang/Object <init> ()V 4097 1 135434 0 0
+ciMethod java/lang/String length ()I 4097 1 92487 0 -1
+ciMethod java/lang/String charAt (I)C 4097 1 392683 0 128
+ciMethod java/lang/String equals (Ljava/lang/Object;)Z 3929 10705 3938 0 -1
+ciMethod java/lang/String hashCode ()I 3233 32769 2585 0 -1
+ciMethod java/lang/String indexOf (I)I 2049 1 28207 0 -1
+ciMethod java/lang/String substring (II)Ljava/lang/String; 2073 1 5410 0 -1
+ciMethod java/lang/System arraycopy (Ljava/lang/Object;ILjava/lang/Object;II)V 9217 1 1152 0 -1
+ciMethod java/lang/Math max (II)I 921 1 5945 0 -1
+ciMethodData java/lang/String charAt (I)C 2 392683 orig 264 104 147 243 93 0 0 0 0 240 59 236 23 0 0 0 0 120 1 0 0 32 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 77 68 79 32 101 120 116 114 97 32 100 97 116 97 32 108 111 99 107 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 89 223 47 0 1 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 80 0 0 0 255 255 255 255 7 0 1 0 0 0 0 0 data 10 0x10007 0x0 0x40 0x5fbeb 0xa0007 0x5fbeb 0x30 0x0 0x120002 0x0 oops 0
+ciMethodData java/lang/Object <init> ()V 2 135434 orig 264 104 147 243 93 0 0 0 0 104 4 236 23 0 0 0 0 32 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 77 68 79 32 101 120 116 114 97 32 100 97 116 97 32 108 111 99 107 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 81 120 16 0 1 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 3 0 1 0 0 0 0 0 0 0 255 255 255 255 0 0 0 0 0 0 0 0 data 0 oops 0
+ciMethod jdk/internal/org/objectweb/asm/ClassWriter addType (Ljava/lang/String;)I 1345 1 2837 0 0
+ciMethod jdk/internal/org/objectweb/asm/ClassWriter addUninitializedType (Ljava/lang/String;I)I 0 0 24 0 0
+ciMethod jdk/internal/org/objectweb/asm/ClassWriter addType (Ljdk/internal/org/objectweb/asm/Item;)Ljdk/internal/org/objectweb/asm/Item; 889 1 865 0 0
+ciMethod jdk/internal/org/objectweb/asm/ClassWriter get (Ljdk/internal/org/objectweb/asm/Item;)Ljdk/internal/org/objectweb/asm/Item; 2161 89 5480 0 256
+ciMethod jdk/internal/org/objectweb/asm/ClassWriter put (Ljdk/internal/org/objectweb/asm/Item;)V 3177 1 6561 0 704
+ciMethod jdk/internal/org/objectweb/asm/Item <init> (ILjdk/internal/org/objectweb/asm/Item;)V 3177 1 5529 0 768
+ciMethod jdk/internal/org/objectweb/asm/Item set (ILjava/lang/String;Ljava/lang/String;Ljava/lang/String;)V 2369 1 5721 0 2912
+ciMethod jdk/internal/org/objectweb/asm/Item isEqualTo (Ljdk/internal/org/objectweb/asm/Item;)Z 433 1 5174 0 -1
+ciMethod jdk/internal/org/objectweb/asm/Type getArgumentsAndReturnSizes (Ljava/lang/String;)I 985 50281 932 0 1184
+ciMethod jdk/internal/org/objectweb/asm/Frame get (I)I 1049 1 2537 0 0
+ciMethod jdk/internal/org/objectweb/asm/Frame set (II)V 417 1 847 0 0
+ciMethod jdk/internal/org/objectweb/asm/Frame push (I)V 1681 1 4481 0 0
+ciMethod jdk/internal/org/objectweb/asm/Frame push (Ljdk/internal/org/objectweb/asm/ClassWriter;Ljava/lang/String;)V 465 1 1299 0 0
+ciMethod jdk/internal/org/objectweb/asm/Frame type (Ljdk/internal/org/objectweb/asm/ClassWriter;Ljava/lang/String;)I 1273 1 2800 0 -1
+ciMethod jdk/internal/org/objectweb/asm/Frame pop ()I 593 1 1589 0 0
+ciMethod jdk/internal/org/objectweb/asm/Frame pop (I)V 745 1 1649 0 0
+ciMethod jdk/internal/org/objectweb/asm/Frame pop (Ljava/lang/String;)V 457 1 835 0 0
+ciMethod jdk/internal/org/objectweb/asm/Frame init (I)V 0 0 36 0 0
+ciMethod jdk/internal/org/objectweb/asm/Frame execute (IILjdk/internal/org/objectweb/asm/ClassWriter;Ljdk/internal/org/objectweb/asm
